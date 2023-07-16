@@ -1,0 +1,13 @@
+git clone  项目URL    # 将项目clone到本地
+git status 查看项目状态，是否需要提交项目到远端
+git add .  添加所有变更的文件
+git commit -m "add git use txt"  # 针对这次文档变更，做一个说明
+git push origin main  # 将本地项目推到远端
+git pull upstream main  # 同步远端项目
+git remote -v   # 查看远程分支
+
+
+
+
+
+
